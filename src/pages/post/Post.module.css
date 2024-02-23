@@ -1,0 +1,19 @@
+.post {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+
+}
+.post img {
+    max-width: 600px;
+    margin-bottom: 3em;
+}
+
+
+.tags {
+    display: flex;
+    font-size: .9em;
+    opacity: 0.5;
+}
+
